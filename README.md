@@ -5,7 +5,7 @@ A fresh install of fractal.build with SCSS &amp; Browser sync support
 
 npm install to install dependencies
 
-Don't forget to install Fractal CLI tool if is not the
+Don't forget to install Fractal CLI tool if you do not have it
 
 fractal start --sync to start the Fractal instance with Browsersync
 

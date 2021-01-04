@@ -6,7 +6,7 @@ var concat = require('gulp-concat');
 
 // Basic Gulp task syntax
 gulp.task('hello', function() {
-  console.log('Hello Zell!');
+  console.log('Hello whoever you are!');
 })
 
 // Development Tasks 
