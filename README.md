@@ -5,6 +5,8 @@ A fresh install of fractal.build with SCSS &amp; Browser sync support
 
 npm install to install dependencies
 
+Don't forget to install Fractal CLI tool if is not the
+
 fractal start --sync to start the Fractal instance with Browsersync
 
-gulp to compile your css file (the example project already has a compiled site.css file), and then
+gulp to compile your css file (the example project already has a compiled site.css file), run it at the same time as Fractal instance
